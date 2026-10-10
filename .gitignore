@@ -1,0 +1,16 @@
+﻿# Configuración local
+.env
+ISA3_QA_System/.env
+
+# Runtime y datos generados localmente
+.runtime/
+Marketplace_Search_Bus/.runtime/
+
+# Logs y archivos temporales
+*.log
+*.pid
+
+# Archivos del sistema y del editor
+.DS_Store
+Thumbs.db
+.vscode/
